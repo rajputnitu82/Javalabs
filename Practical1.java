@@ -38,9 +38,5 @@ public class Practical1{
         System.out.println("Double Value:" + marks);
         System.out.println("Converted to integer:" + totalMarks);
     
-    int number1=10;
-    int number2=20;
-    int add=number1+number2;
-    System.out.println("Addition of " +number1+ " And " +number2+ " is: "+add);
     }
 }
